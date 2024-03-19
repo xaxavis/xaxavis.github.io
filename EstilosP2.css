@@ -1,0 +1,27 @@
+body{background-color:lightslategray;
+    font-family: 'dubai', sans-serif;
+
+    }
+h1, h2{
+    text-align: center;
+}
+
+h2{
+    color: rgb(185, 20, 141);
+}
+
+a, img {
+    display: block;
+}
+a{
+    margin: 30px 100px;
+    text-decoration:overline:solid;
+    color: blue;
+}
+a:hover{
+    color: red;
+}
+img{
+    width: 30%;
+    margin: auto
+}
